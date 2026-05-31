@@ -146,3 +146,7 @@ Hosting and managing projects using GitHub.
 Results
 
 The portfolio website was successfully developed and tested. The website displays personal information, technical skills, projects, educational qualifications, and contact details in a professional and responsive format.
+
+##OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a3cff307-8fe7-4387-bbf0-4b04bcdf0015" />
